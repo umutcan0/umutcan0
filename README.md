@@ -21,7 +21,5 @@ Hey there!
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github.com/umutcan0/profile-png/blob/main/DALL%C2%B7E%202025-03-01%2021.26.04%20-%20A%20futuristic%20and%20dynamic%20GitHub%20banner%20featuring%20a%20tech-savvy%20theme.%20The%20background%20should%20include%20a%20dark%2C%20cyberpunk-inspired%20design%20with%20blue%20neon%20ac.webp?raw=true" alt="GitHub Banner">
-</p>
+https://raw.githubusercontent.com/umutcan0/profile-png/main/DALL%C2%B7E%202025-03-01%2021.26.04%20-%20A%20futuristic%20and%20dynamic%20GitHub%20banner%20featuring%20a%20tech-savvy%20theme.%20The%20background%20should%20include%20a%20dark%2C%20cyberpunk-inspired%20design%20with%20blue%20neon%20ac.webp
 
