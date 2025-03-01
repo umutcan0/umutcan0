@@ -1,16 +1,13 @@
-## Hi there 👋
+💻 Welcome to My GitHub Profile!
 
-<!--
-**umutcan0/umutcan0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there! 
+👋 I'm Umut Can Bal, a passionate Java Backend Developer 
 
-Here are some ideas to get you started:
+🚀 who loves working with Spring Boot, Microservices, and Cloud Technologies. I enjoy solving complex problems and continuously learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🖊️ My Personal Blog
+🔹 Medium Blog – Sharing my insights on Microservices, Spring Boot, and Backend Development.
+
+📫 Contact Me
+🔹 LinkedIn: Umut Can Bal
+🔹 Email: umutcanbal123@gmail.com
