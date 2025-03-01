@@ -13,7 +13,7 @@ Hey there!
 </p>
 
 📫 Contact Me
-<p align="left"> align="left"> <a href="https://www.linkedin.com/in/umutcanbal/" target="_blank">
+<p align="left"> <a href="https://www.linkedin.com/in/umutcanbal/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35">
   </a>
   <a href="mailto:umutcanbal123@gmail.com">
